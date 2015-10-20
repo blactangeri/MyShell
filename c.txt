@@ -1,0 +1,7 @@
+ls
+ls -lrt
+pwd
+cd ..
+pwd
+history
+ls -l > out.txt
